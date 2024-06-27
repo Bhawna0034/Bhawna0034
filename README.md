@@ -12,7 +12,7 @@ Please do not hesitate to reach out to me for a discussion on potential collabor
 💻 Currently, I'm diving deep into Spring Boot and building projects to hone my skills.<br>
 🌱 Always eager to learn new technologies and take on challenging projects.
 🌍 Passionate about creating impactful solutions and collaborating with developers worldwide.<br>
-📫 Feel free to reach out to me for any collaboration, project ideas, or just to say hi! <br>
+📫 How to reach me? bhawnaasharma0034@gmail.com <br>
 
 
 ## 🌐 Socials:
