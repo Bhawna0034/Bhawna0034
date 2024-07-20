@@ -10,7 +10,7 @@ Please do not hesitate to reach out to me for a discussion on potential collabor
   ## 💫 Liitle Bit More About Me
 🎓 Currently pursuing my Master of Computer Applications (MCA) from  Manipal University Jaipur, graduating in 2024.<br>
 💻 Currently, I'm diving deep into Spring Boot and building projects to hone my skills.<br>
-🌱 Always eager to learn new technologies and take on challenging projects.
+🌱 Always eager to learn new technologies and take on challenging projects.<br>
 🌍 Passionate about creating impactful solutions and collaborating with developers worldwide.<br>
 📫 How to reach me? bhawnaasharma0034@gmail.com <br>
 
