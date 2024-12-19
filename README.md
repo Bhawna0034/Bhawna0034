@@ -34,6 +34,13 @@ Please do not hesitate to reach out to me for a discussion on potential collabor
 
 <br>
 
+## Github Statistics
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bhawna0034&show_icons=true&theme=radical)
+
+<br>
+
+
+
 <br>
 
  ## 🏆 GitHub Profile Trophy
